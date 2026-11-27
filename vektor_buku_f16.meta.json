@@ -1,0 +1,10 @@
+{
+  "n_baris": 54001,
+  "fingerprint": "fbd9afbd",
+  "model": "bert-base-multilingual-cased",
+  "max_length": 64,
+  "pooling": "mean",
+  "dtype": "float16",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1"
+}
